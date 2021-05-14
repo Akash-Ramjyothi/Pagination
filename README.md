@@ -2,13 +2,16 @@
 # Pagination
 
 ## 📑 Description:
-The project "Pagination" is a working prototype and demonstration of the pagination which shows 100 sample data fetched in the form of JSON and is displayed in the frontend. But only the first 10 data is shown in the first page, then the consecutive data are shown in the next page with 10 data per page.
+The project "Pagination" is a working prototype and demonstration of the pagination where 100 sample data fetched in the form of JSON and is displayed in the frontend. But only the first 10 data is shown in the first page, then the consecutive data are shown in the next page with 10 data per page.
+
+## ❓ What is Pagination?
+Pagination is the process of splitting the contents of a website, or a section of contents from a website, into discrete pages. It is prevalent in web design, appearing in most web applications to allow direct access to divided contents across a number of different pages.
 
 ## 🌎 Deployed Website:
 https://pagination-sample.netlify.app/
 
 ## 📽 Sample Demo:
-https://user-images.githubusercontent.com/54114888/117778771-9d8d8e00-b25b-11eb-8cf2-0b5539f95f63.mp4
+https://user-images.githubusercontent.com/54114888/118221205-c64f9680-b49a-11eb-87b8-a305ec981259.mp4
 
 ## 🏗 Built with:
 - React.JS.
