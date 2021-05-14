@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/54114888/118221205-c64f9680-b49a-11eb-
 ## 🏗 Built with:
 - React.JS.
 - Axios to make Requests.
+- Collect Chat.
 - React with Hooks.
 - Data Fetched: https://jsonplaceholder.typicode.com/posts.
 - Bootstrap.
